@@ -28,7 +28,7 @@ This professional-grade project tackles breast cancer prediction using a meticul
 
 2. **Code Acquisition:**
    ```bash
-   git clone https://github.com/<your_username>/breast-cancer-prediction.git
+   git clone https://github.com/meenu16411/breast-cancer-prediction.git
    ```
 
 3. **Model Training Execution:**
@@ -56,13 +56,17 @@ This will launch the Streamlit app in your web browser, typically at http://loca
 
 1. **Feature Value Input:**
    - The app presents input fields corresponding to each breast cancer feature.
-   - Enter values within the specified range (0 to 100) for each feature.
+   - ![Screenshot 2024-12-01 204757](https://github.com/user-attachments/assets/c36a7f0a-b8c2-408d-b917-f96dddea25b3)
+
+     
 
 2. **Prediction Generation:**
    - Click the "Predict" button.
 
 3. **Result Visualization:**
    - The app displays a success message indicating the predicted cancer type (malignant or benign) based on the model's analysis.
+   - ![Screenshot 2024-12-01 204743](https://github.com/user-attachments/assets/78c8564f-269e-4a45-9793-cc2f671667dd)
+
 
 ## Deployed APP
 https://breastcancerprediction-azyhgsu5sfwyypzps2kntm.streamlit.app/
