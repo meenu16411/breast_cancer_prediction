@@ -56,7 +56,8 @@ This will launch the Streamlit app in your web browser, typically at http://loca
 
 1. **Feature Value Input:**
    - The app presents input fields corresponding to each breast cancer feature.
-   - ![Screenshot 2024-12-01 204757](https://github.com/user-attachments/assets/c36a7f0a-b8c2-408d-b917-f96dddea25b3)
+   ![Screenshot 2024-12-01 204757](https://github.com/user-attachments/assets/d9837d35-8444-4f55-b158-1c5805f3f521)
+
 
      
 
@@ -65,7 +66,8 @@ This will launch the Streamlit app in your web browser, typically at http://loca
 
 3. **Result Visualization:**
    - The app displays a success message indicating the predicted cancer type (malignant or benign) based on the model's analysis.
-   - ![Screenshot 2024-12-01 204743](https://github.com/user-attachments/assets/78c8564f-269e-4a45-9793-cc2f671667dd)
+     ![Screenshot 2024-12-01 204743](https://github.com/user-attachments/assets/055d432a-f441-4f51-a693-a476284c4bdd)
+
 
 
 ## Deployed APP
