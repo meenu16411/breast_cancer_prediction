@@ -1,6 +1,6 @@
 ## Breast Cancer Prediction with Streamlit Integration
 
-This professional-grade project tackles breast cancer prediction using a meticulously trained Multi-Layer Perceptron (MLP) classifier and leverages the scikit-learn library. Additionally, a user-friendly Streamlit application empowers real-time predictions, fostering a comprehensive solution for both model development and user interaction.
+This project tackles breast cancer prediction using a meticulously trained Multi-Layer Perceptron (MLP) classifier and leverages the scikit-learn library. Additionally, a user-friendly Streamlit application empowers real-time predictions, fostering a comprehensive solution for both model development and user interaction.
 
 **Key Functionalities:**
 
